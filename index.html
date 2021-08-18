@@ -1,0 +1,78 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Quotes</title>
+    <!-- Include only the reset -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css"
+      integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8="
+      crossorigin="anonymous"
+    />
+    <!-- or include the full Satellite theme -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.4.5/themes/satellite-min.css"
+      integrity="sha256-TehzF/2QvNKhGQrrNpoOb2Ck4iGZ1J/DI4pkd2oUsBc="
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <h1>Book Quotes</h1>
+    <p>
+      Scraped from
+      <a href="https://slides.com/bahmutov/book-quotes"
+        >slides.com/bahmutov/book-quotes</a
+      >
+    </p>
+    <div class="container">
+      <div id="searchbox"></div>
+      <div id="hits"></div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js"
+      integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js"
+      integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM="
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      const searchClient = algoliasearch(
+        'MYPSC2284D',
+        '1d382a9c7cdfa0b2c13664c9a6c75b73',
+      )
+
+      const search = instantsearch({
+        indexName: 'quotes',
+        searchClient,
+      })
+
+      search.addWidgets([
+        instantsearch.widgets.searchBox({
+          container: '#searchbox',
+          placeholder: 'Search for book quotes',
+        }),
+
+        instantsearch.widgets.hits({
+          container: '#hits',
+          templates: {
+            item(hit) {
+              console.log(hit)
+
+              return `
+            <p>${hit.content}</p>
+        `
+            },
+          },
+        }),
+      ])
+
+      search.start()
+    </script>
+  </body>
+</html>
