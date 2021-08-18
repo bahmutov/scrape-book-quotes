@@ -1,0 +1,21 @@
+{
+  "name": "scrape-book-quotes",
+  "version": "1.0.0",
+  "description": "Scraping Slides.com presentation using Cypress and sending records to AlgoliaScraping Slides.com presentation using Cypress and sending records to Algolia",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/scrape-book-quotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/scrape-book-quotes/issues"
+  },
+  "homepage": "https://github.com/bahmutov/scrape-book-quotes#readme"
+}
