@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/bahmutov/scrape-book-quotes/issues"
   },
-  "homepage": "https://github.com/bahmutov/scrape-book-quotes#readme"
+  "homepage": "https://github.com/bahmutov/scrape-book-quotes#readme",
+  "devDependencies": {
+    "cypress": "^8.3.0",
+    "cypress-recurse": "^1.8.1",
+    "prettier": "^2.3.2"
+  }
 }

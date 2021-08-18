@@ -1,0 +1,9 @@
+{
+  "fixturesFolder": false,
+  "supportFile": false,
+  "pluginsFile": false,
+  "baseUrl": "https://slides.com/bahmutov/book-quotes",
+  "viewportHeight": 1200,
+  "viewportWidth": 1200,
+  "scrollBehavior": false
+}
