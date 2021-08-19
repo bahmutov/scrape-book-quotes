@@ -1,5 +1,3 @@
-const algoliaObjects = require('./scraped/bahmutov-book-quotes-algolia-objects.json')
-
 // https://www.algolia.com/doc/api-client/getting-started
 const algoliasearch = require('algoliasearch')
 
@@ -10,11 +8,15 @@ const client = algoliasearch(
   process.env.ADMIN_API_KEY,
 )
 const index = client.initIndex('quotes')
-// for now replace all records in the index
+
+const presentationSlug = 'bahmutov-book-quotes'
+
 index
-  // each record should have a unique id set
-  .saveObjects(algoliaObjects, { autoGenerateObjectIDIfNotExist: false })
-  .then(() => {
-    console.log('uploaded %d records', algoliaObjects.length)
+  .deleteBy({
+    filters: presentationSlug,
+  })
+  .then((r) => {
+    console.log('deleted records with presentation "%s"', presentationSlug)
+    console.log(r)
   })
   .catch((err) => console.error(err))

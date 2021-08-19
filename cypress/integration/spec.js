@@ -236,7 +236,13 @@ it('scrapes', () => {
 
     cy.writeFile(`${outputFolder}/${slug}-records.json`, records)
 
-    const algoliaObjects = records.map(scrapeToAlgoliaRecord)
+    const algoliaObjects = records.map(scrapeToAlgoliaRecord).map((r) => {
+      // add the same presentation slug to each record
+      // this attribute will be very useful for deleting
+      // all old records before scraping the presentation again
+      r._tags = [slug]
+      return r
+    })
     cy.writeFile(`${outputFolder}/${slug}-algolia-objects.json`, algoliaObjects)
   })
 })

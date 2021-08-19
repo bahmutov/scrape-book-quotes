@@ -10,7 +10,10 @@
       "lvl3": "Leo Tolstoy",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/1",
@@ -23,7 +26,10 @@
       "lvl3": "Herman Melville",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/2",
@@ -36,7 +42,10 @@
       "lvl3": "Charles Dickens",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/2/1",
@@ -49,7 +58,10 @@
       "lvl3": "Charles Dickens",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/2/2",
@@ -62,7 +74,10 @@
       "lvl3": "Charles Dickens",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/3",
@@ -75,7 +90,10 @@
       "lvl3": "Ray Bradbury",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/4",
@@ -88,7 +106,10 @@
       "lvl3": "Jane Austen",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/5",
@@ -101,7 +122,10 @@
       "lvl3": "A Bullet List",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/5",
@@ -114,7 +138,10 @@
       "lvl3": "A Bullet List",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/5",
@@ -127,7 +154,10 @@
       "lvl3": "A Bullet List",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/5",
@@ -140,7 +170,10 @@
       "lvl3": "A Bullet List",
       "lvl4": null
     },
-    "type": "content"
+    "type": "content",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   },
   {
     "url": "https://slides.com/bahmutov/book-quotes/#/5/1",
@@ -153,6 +186,9 @@
       "lvl3": null,
       "lvl4": null
     },
-    "type": "lvl2"
+    "type": "lvl2",
+    "_tags": [
+      "bahmutov-book-quotes"
+    ]
   }
 ]
