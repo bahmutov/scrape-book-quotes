@@ -39,7 +39,7 @@ const scrape = () => {
       lvl3,
       lvl4,
       content: null,
-      objectId: slideId,
+      objectID: slideId,
     }
     console.log(record)
 
@@ -53,7 +53,7 @@ const scrape = () => {
         content: el.innerText.trim(),
         // give each record extracted from the slide
         // its own id
-        objectId: `${record.objectId}-${k}`,
+        objectID: `${record.objectID}-${k}`,
       }
       return r
     })
@@ -75,7 +75,7 @@ it('scrapes the first slide', () => {
     content:
       'Happy families are all alike; every unhappy family is unhappy in its own way.',
     url: 'https://slides.com/bahmutov/book-quotes/',
-    objectId: 'https-slides-com-bahmutov-book-quotes-0',
+    objectID: 'https-slides-com-bahmutov-book-quotes-0',
   })
 })
 
@@ -118,11 +118,11 @@ it('scrapes slide with just heading 1', () => {
       lvl4: null,
       content: null,
       url: 'https://slides.com/bahmutov/book-quotes/#/5/1',
-      objectId: 'https-slides-com-bahmutov-book-quotes-5-1',
+      objectID: 'https-slides-com-bahmutov-book-quotes-5-1',
     })
     .then(scrapeToAlgoliaRecord)
     .should('deep.equal', {
-      objectId: 'https-slides-com-bahmutov-book-quotes-5-1',
+      objectID: 'https-slides-com-bahmutov-book-quotes-5-1',
       content: null,
       hierarchy: {
         lvl0: 'Book Quotes',
@@ -150,7 +150,7 @@ it('scrapes slide with bullet list', () => {
       lvl4: null,
       content: 'Bullet One',
       url: 'https://slides.com/bahmutov/book-quotes/#/5',
-      objectId: 'https-slides-com-bahmutov-book-quotes-5-0',
+      objectID: 'https-slides-com-bahmutov-book-quotes-5-0',
     },
     {
       lvl0: 'Book Quotes',
@@ -160,7 +160,7 @@ it('scrapes slide with bullet list', () => {
       lvl4: null,
       content: 'Bullet Two',
       url: 'https://slides.com/bahmutov/book-quotes/#/5',
-      objectId: 'https-slides-com-bahmutov-book-quotes-5-1',
+      objectID: 'https-slides-com-bahmutov-book-quotes-5-1',
     },
     {
       lvl0: 'Book Quotes',
@@ -170,7 +170,7 @@ it('scrapes slide with bullet list', () => {
       lvl4: null,
       content: 'Bullet Three',
       url: 'https://slides.com/bahmutov/book-quotes/#/5',
-      objectId: 'https-slides-com-bahmutov-book-quotes-5-2',
+      objectID: 'https-slides-com-bahmutov-book-quotes-5-2',
     },
     {
       lvl0: 'Book Quotes',
@@ -180,15 +180,24 @@ it('scrapes slide with bullet list', () => {
       lvl4: null,
       content: 'This slide has multiple list items, all should be scraped',
       url: 'https://slides.com/bahmutov/book-quotes/#/5',
-      objectId: 'https-slides-com-bahmutov-book-quotes-5-3',
+      objectID: 'https-slides-com-bahmutov-book-quotes-5-3',
     },
   ])
 })
 
-it.only('scrapes', () => {
+it('scrapes', () => {
+  const outputFolder = 'scraped'
+  // the presentation safe slug like "bahmutov-book-quotes"
+  let slug
   const records = []
 
   cy.visit('/')
+
+  // derive the presentation slug from the pathname
+  cy.location('pathname').then((pathname) => {
+    slug = Cypress._.kebabCase(pathname)
+    console.log({ pathname, slug })
+  })
 
   const goVertical = () => {
     return recurse(
@@ -224,9 +233,10 @@ it.only('scrapes', () => {
     },
   ).then(() => {
     expect(records, 'number of records').to.have.length(12)
-    cy.writeFile('records.json', records)
+
+    cy.writeFile(`${outputFolder}/${slug}-records.json`, records)
 
     const algoliaObjects = records.map(scrapeToAlgoliaRecord)
-    cy.writeFile('algolia-objects.json', algoliaObjects)
+    cy.writeFile(`${outputFolder}/${slug}-algolia-objects.json`, algoliaObjects)
   })
 })

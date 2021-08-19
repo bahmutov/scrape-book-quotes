@@ -3,38 +3,39 @@
  * ready to be send.
  */
 const scrapeToAlgoliaRecord = (record) => {
-  record.hierarchy = {
-    lvl0: record.lvl0,
-    lvl1: record.lvl1,
-    lvl2: record.lvl2,
-    lvl3: record.lvl3,
-    lvl4: record.lvl4,
+  const algoliaRecord = Cypress._.cloneDeep(record)
+  algoliaRecord.hierarchy = {
+    lvl0: algoliaRecord.lvl0,
+    lvl1: algoliaRecord.lvl1,
+    lvl2: algoliaRecord.lvl2,
+    lvl3: algoliaRecord.lvl3,
+    lvl4: algoliaRecord.lvl4,
   }
 
-  if (record.content) {
-    record.type = 'content'
+  if (algoliaRecord.content) {
+    algoliaRecord.type = 'content'
   } else {
-    if (record.lvl4) {
-      record.type = 'lvl4'
-    } else if (record.lvl3) {
-      record.type = 'lvl3'
-    } else if (record.lvl2) {
-      record.type = 'lvl2'
-    } else if (record.lvl1) {
-      record.type = 'lvl1'
-    } else if (record.lvl0) {
-      record.type = 'lvl0'
+    if (algoliaRecord.lvl4) {
+      algoliaRecord.type = 'lvl4'
+    } else if (algoliaRecord.lvl3) {
+      algoliaRecord.type = 'lvl3'
+    } else if (algoliaRecord.lvl2) {
+      algoliaRecord.type = 'lvl2'
+    } else if (algoliaRecord.lvl1) {
+      algoliaRecord.type = 'lvl1'
+    } else if (algoliaRecord.lvl0) {
+      algoliaRecord.type = 'lvl0'
     }
   }
 
   // we moved the levels into hierarchy
-  delete record.lvl0
-  delete record.lvl1
-  delete record.lvl2
-  delete record.lvl3
-  delete record.lvl4
+  delete algoliaRecord.lvl0
+  delete algoliaRecord.lvl1
+  delete algoliaRecord.lvl2
+  delete algoliaRecord.lvl3
+  delete algoliaRecord.lvl4
 
-  return record
+  return algoliaRecord
 }
 
 module.exports = { scrapeToAlgoliaRecord }

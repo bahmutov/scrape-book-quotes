@@ -1,0 +1,158 @@
+[
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/",
+    "content": "Happy families are all alike; every unhappy family is unhappy in its own way.",
+    "objectID": "https-slides-com-bahmutov-book-quotes-0",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": "Anna Karenina",
+      "lvl3": "Leo Tolstoy",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/1",
+    "content": "Call me Ishmael.",
+    "objectID": "https-slides-com-bahmutov-book-quotes-1-0",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": "Moby Dick",
+      "lvl3": "Herman Melville",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/2",
+    "content": "It was the best of times, it was the worst of times, ...",
+    "objectID": "https-slides-com-bahmutov-book-quotes-2-0",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": "A Tale of Two Cities",
+      "lvl3": "Charles Dickens",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/2/1",
+    "content": "... it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair,...",
+    "objectID": "https-slides-com-bahmutov-book-quotes-2-1-0",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": "A Tale of Two Cities",
+      "lvl3": "Charles Dickens",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/2/2",
+    "content": "Marley was dead, to begin with. There is no doubt whatever about that.",
+    "objectID": "https-slides-com-bahmutov-book-quotes-2-2-0",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": "A Christmas Carol",
+      "lvl3": "Charles Dickens",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/3",
+    "content": "It was a pleasure to burn.",
+    "objectID": "https-slides-com-bahmutov-book-quotes-3-0",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": "Fahrenheit 451",
+      "lvl3": "Ray Bradbury",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/4",
+    "content": "It is a truth universally acknowledged, that a single man in possession of a large fortune, must be in want of a wife.",
+    "objectID": "https-slides-com-bahmutov-book-quotes-4-0",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": "Pride And Prejudice",
+      "lvl3": "Jane Austen",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/5",
+    "content": "Bullet One",
+    "objectID": "https-slides-com-bahmutov-book-quotes-5-0",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": null,
+      "lvl3": "A Bullet List",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/5",
+    "content": "Bullet Two",
+    "objectID": "https-slides-com-bahmutov-book-quotes-5-1",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": null,
+      "lvl3": "A Bullet List",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/5",
+    "content": "Bullet Three",
+    "objectID": "https-slides-com-bahmutov-book-quotes-5-2",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": null,
+      "lvl3": "A Bullet List",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/5",
+    "content": "This slide has multiple list items, all should be scraped",
+    "objectID": "https-slides-com-bahmutov-book-quotes-5-3",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": null,
+      "lvl3": "A Bullet List",
+      "lvl4": null
+    },
+    "type": "content"
+  },
+  {
+    "url": "https://slides.com/bahmutov/book-quotes/#/5/1",
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-book-quotes-5-1",
+    "hierarchy": {
+      "lvl0": "Book Quotes",
+      "lvl1": "A test deck for practicing scraping slides.",
+      "lvl2": "The End",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl2"
+  }
+]
