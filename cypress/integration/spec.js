@@ -13,13 +13,13 @@ const scrape = () => {
     const lvl1El = doc.querySelector('.deck-info .description')
     const lvl1 = lvl1El ? lvl1El.innerText.trim() : null
 
-    const lvl2El = doc.querySelector('.slides .present:not(.stack)  h1')
+    const lvl2El = doc.querySelector('.slides .present:not(.stack) h1')
     const lvl2 = lvl2El ? lvl2El.innerText.trim() : null
 
-    const lvl3El = doc.querySelector('.slides .present:not(.stack)  h2')
+    const lvl3El = doc.querySelector('.slides .present:not(.stack) h2')
     const lvl3 = lvl3El ? lvl3El.innerText : null
 
-    const lvl4El = doc.querySelector('.slides .present:not(.stack)  h3')
+    const lvl4El = doc.querySelector('.slides .present:not(.stack) h3')
     const lvl4 = lvl4El ? lvl4El.innerText.trim() : null
 
     const contentSelectors = [
@@ -30,15 +30,30 @@ const scrape = () => {
     const contentSelector = contentSelectors.join(', ')
     const textEls = Array.from(doc.querySelectorAll(contentSelector))
 
-    const record = { url, lvl0, lvl1, lvl2, lvl3, lvl4, content: null }
+    const slideId = Cypress._.kebabCase(doc.location.href)
+    const record = {
+      url,
+      lvl0,
+      lvl1,
+      lvl2,
+      lvl3,
+      lvl4,
+      content: null,
+      objectId: slideId,
+    }
+    console.log(record)
+
     if (!textEls.length) {
       return [record]
     }
 
-    const records = textEls.map((el) => {
+    const records = textEls.map((el, k) => {
       const r = {
         ...record,
         content: el.innerText.trim(),
+        // give each record extracted from the slide
+        // its own id
+        objectId: `${record.objectId}-${k}`,
       }
       return r
     })
@@ -60,6 +75,7 @@ it('scrapes the first slide', () => {
     content:
       'Happy families are all alike; every unhappy family is unhappy in its own way.',
     url: 'https://slides.com/bahmutov/book-quotes/',
+    objectId: 'https-slides-com-bahmutov-book-quotes-0',
   })
 })
 
@@ -102,9 +118,11 @@ it('scrapes slide with just heading 1', () => {
       lvl4: null,
       content: null,
       url: 'https://slides.com/bahmutov/book-quotes/#/5/1',
+      objectId: 'https-slides-com-bahmutov-book-quotes-5-1',
     })
     .then(scrapeToAlgoliaRecord)
     .should('deep.equal', {
+      objectId: 'https-slides-com-bahmutov-book-quotes-5-1',
       content: null,
       hierarchy: {
         lvl0: 'Book Quotes',
@@ -132,6 +150,7 @@ it('scrapes slide with bullet list', () => {
       lvl4: null,
       content: 'Bullet One',
       url: 'https://slides.com/bahmutov/book-quotes/#/5',
+      objectId: 'https-slides-com-bahmutov-book-quotes-5-0',
     },
     {
       lvl0: 'Book Quotes',
@@ -141,6 +160,7 @@ it('scrapes slide with bullet list', () => {
       lvl4: null,
       content: 'Bullet Two',
       url: 'https://slides.com/bahmutov/book-quotes/#/5',
+      objectId: 'https-slides-com-bahmutov-book-quotes-5-1',
     },
     {
       lvl0: 'Book Quotes',
@@ -150,6 +170,7 @@ it('scrapes slide with bullet list', () => {
       lvl4: null,
       content: 'Bullet Three',
       url: 'https://slides.com/bahmutov/book-quotes/#/5',
+      objectId: 'https-slides-com-bahmutov-book-quotes-5-2',
     },
     {
       lvl0: 'Book Quotes',
@@ -159,11 +180,12 @@ it('scrapes slide with bullet list', () => {
       lvl4: null,
       content: 'This slide has multiple list items, all should be scraped',
       url: 'https://slides.com/bahmutov/book-quotes/#/5',
+      objectId: 'https-slides-com-bahmutov-book-quotes-5-3',
     },
   ])
 })
 
-it('scrapes', () => {
+it.only('scrapes', () => {
   const records = []
 
   cy.visit('/')
@@ -203,5 +225,8 @@ it('scrapes', () => {
   ).then(() => {
     expect(records, 'number of records').to.have.length(12)
     cy.writeFile('records.json', records)
+
+    const algoliaObjects = records.map(scrapeToAlgoliaRecord)
+    cy.writeFile('algolia-objects.json', algoliaObjects)
   })
 })

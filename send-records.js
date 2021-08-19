@@ -1,7 +1,4 @@
-const { scrapeToAlgoliaRecord } = require('./utils')
-const records = require('./records.json').map(scrapeToAlgoliaRecord)
-
-console.log(JSON.stringify(records, null, 2))
+const algoliaObjects = require('./algolia-objects.json')
 
 // https://www.algolia.com/doc/api-client/getting-started
 const algoliasearch = require('algoliasearch')
@@ -15,7 +12,8 @@ const client = algoliasearch(
 const index = client.initIndex('quotes')
 // for now replace all records in the index
 index
-  .replaceAllObjects(records, { autoGenerateObjectIDIfNotExist: true })
+  // each record should have a unique id set
+  .replaceAllObjects(algoliaObjects, { autoGenerateObjectIDIfNotExist: false })
   .then(() => {
     console.log('uploaded %d records', records.length)
   })
