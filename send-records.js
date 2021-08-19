@@ -1,28 +1,5 @@
-const records = require('./records.json').map((record) => {
-  record.hierarchy = {
-    lvl0: record.lvl0,
-    lvl1: record.lvl1,
-    lvl2: record.lvl2,
-    lvl3: record.lvl3,
-    lvl4: record.lvl4,
-  }
-
-  if (record.content) {
-    record.type = 'content'
-  } else {
-    console.error('TODO: need to set the type for a record')
-    console.error(record)
-  }
-
-  // we moved the levels into hierarchy
-  delete record.lvl0
-  delete record.lvl1
-  delete record.lvl2
-  delete record.lvl3
-  delete record.lvl4
-
-  return record
-})
+const { scrapeToAlgoliaRecord } = require('./utils')
+const records = require('./records.json').map(scrapeToAlgoliaRecord)
 
 console.log(JSON.stringify(records, null, 2))
 
