@@ -43,8 +43,8 @@
     ></script>
     <script>
       const searchClient = algoliasearch(
-        'MYPSC2284D',
-        '1d382a9c7cdfa0b2c13664c9a6c75b73',
+        'MYPSC2284D', // public application ID
+        '1d382a9c7cdfa0b2c13664c9a6c75b73', // search-only public API key
       )
 
       const search = instantsearch({
@@ -63,7 +63,7 @@
           templates: {
             item(hit) {
               console.log(hit)
-              return `<p>${hit.content}</p>`
+              return `<p>${hit.content} - <a href="${hit.url}">${hit.url}</p>`
             },
           },
         }),
