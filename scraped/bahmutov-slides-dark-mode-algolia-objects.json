@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://slides.com/bahmutov/slides-dark-mode/",
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-slides-dark-mode",
+    "hierarchy": {
+      "lvl0": "slides-dark-mode",
+      "lvl1": "This slides.com deck picks different styles depending on the viewer's OS preference. By default, the deck will have a pink-white background. But if you set your OS to Dark mode, the presentation will switch to the dark background and light text.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-slides-dark-mode"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/slides-dark-mode/#/1",
+    "content": "Slides style CSS editor",
+    "objectID": "https-slides-com-bahmutov-slides-dark-mode-1-0",
+    "hierarchy": {
+      "lvl0": "slides-dark-mode",
+      "lvl1": "This slides.com deck picks different styles depending on the viewer's OS preference. By default, the deck will have a pink-white background. But if you set your OS to Dark mode, the presentation will switch to the dark background and light text.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-slides-dark-mode"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/slides-dark-mode/#/1",
+    "content": "This presentation uses the above CSS settings, set via CSS editor",
+    "objectID": "https-slides-com-bahmutov-slides-dark-mode-1-1",
+    "hierarchy": {
+      "lvl0": "slides-dark-mode",
+      "lvl1": "This slides.com deck picks different styles depending on the viewer's OS preference. By default, the deck will have a pink-white background. But if you set your OS to Dark mode, the presentation will switch to the dark background and light text.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-slides-dark-mode"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/slides-dark-mode/#/2",
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-slides-dark-mode-2",
+    "hierarchy": {
+      "lvl0": "slides-dark-mode",
+      "lvl1": "This slides.com deck picks different styles depending on the viewer's OS preference. By default, the deck will have a pink-white background. But if you set your OS to Dark mode, the presentation will switch to the dark background and light text.",
+      "lvl2": "In Action",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl2",
+    "_tags": [
+      "bahmutov-slides-dark-mode"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/slides-dark-mode/#/3",
+    "content": "https://twitter.com/argyleink/status/1423993578787725317",
+    "objectID": "https-slides-com-bahmutov-slides-dark-mode-3-0",
+    "hierarchy": {
+      "lvl0": "slides-dark-mode",
+      "lvl1": "This slides.com deck picks different styles depending on the viewer's OS preference. By default, the deck will have a pink-white background. But if you set your OS to Dark mode, the presentation will switch to the dark background and light text.",
+      "lvl2": "This Has Glass",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-slides-dark-mode"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/slides-dark-mode/#/3",
+    "content": "See the CSS code editor",
+    "objectID": "https-slides-com-bahmutov-slides-dark-mode-3-1",
+    "hierarchy": {
+      "lvl0": "slides-dark-mode",
+      "lvl1": "This slides.com deck picks different styles depending on the viewer's OS preference. By default, the deck will have a pink-white background. But if you set your OS to Dark mode, the presentation will switch to the dark background and light text.",
+      "lvl2": "This Has Glass",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-slides-dark-mode"
+    ]
+  }
+]

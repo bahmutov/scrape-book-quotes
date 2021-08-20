@@ -2,8 +2,10 @@
 
 import { recurse } from 'cypress-recurse'
 
+const doNotLog = { log: false }
+
 export const scrapeOneSlide = () => {
-  return cy.document().then((doc) => {
+  return cy.document(doNotLog).then((doc) => {
     const url = doc.location.href
 
     const lvl0El = doc.querySelector('.deck-info h1')
@@ -82,8 +84,12 @@ export const scrapeDeck = (url = '/') => {
     return recurse(
       () =>
         scrapeOneSlide()
-          .then((r) => records.push(...r))
-          .then(() => cy.get('.navigate-down')),
+          .then((r) => {
+            cy.log(r[0].url)
+            cy.log(`**${r.length}** record(s)`)
+            records.push(...r)
+          })
+          .then(() => cy.get('.navigate-down', doNotLog)),
       ($button) => !$button.hasClass('enabled'),
       {
         log: false,
@@ -91,15 +97,15 @@ export const scrapeDeck = (url = '/') => {
         timeout: 200000,
         limit: 200,
         post() {
-          cy.get('.navigate-down').click()
-          cy.wait(500)
+          cy.get('.navigate-down', doNotLog).click(doNotLog)
+          cy.wait(500, doNotLog)
         },
       },
     )
   }
 
   return recurse(
-    () => goVertical().then(() => cy.get('.navigate-right')),
+    () => goVertical().then(() => cy.get('.navigate-right', doNotLog)),
     ($button) => !$button.hasClass('enabled'),
     {
       log: false,
@@ -107,7 +113,7 @@ export const scrapeDeck = (url = '/') => {
       timeout: 200000,
       limit: 200,
       post() {
-        cy.get('.navigate-right').click()
+        cy.get('.navigate-right', doNotLog).click(doNotLog)
       },
     },
   ).then(() => {

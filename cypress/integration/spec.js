@@ -6,7 +6,8 @@ import { scrapeDeck } from './utils'
 
 it('scrapes', () => {
   scrapeDeck().then(({ slug, records }) => {
-    expect(records, 'number of records').to.have.length(12)
+    // at least several records should be found
+    expect(records, 'number of records').to.have.length.gt(1)
 
     const outputFolder = 'scraped'
     cy.writeFile(`${outputFolder}/${slug}-records.json`, records)
