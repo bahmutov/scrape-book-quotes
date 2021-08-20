@@ -10,9 +10,16 @@ module.exports = (on, config) => {
   // `on` is used to hook into various events Cypress emits
   // `config` is the resolved Cypress config
   on('task', {
+    // little utility task for printing a message to the terminal
+    print(x) {
+      console.log(x)
+      return null
+    },
+
+    // upload scraped records to Algolia
     async uploadRecords({ records, presentation }) {
-      const { APPLICATION_ID, ADMIN_API_KEY } = process.env
-      if (!APPLICATION_ID || !ADMIN_API_KEY) {
+      const { APPLICATION_ID, ADMIN_API_KEY, INDEX_NAME } = process.env
+      if (!APPLICATION_ID || !ADMIN_API_KEY || !INDEX_NAME) {
         console.log('Algolia app/key not set')
         console.log(
           'Skipping uploading %d records for presentation %s',
@@ -27,14 +34,18 @@ module.exports = (on, config) => {
       }
 
       const client = algoliasearch(APPLICATION_ID, ADMIN_API_KEY)
-      const index = client.initIndex('quotes')
+      const index = client.initIndex(INDEX_NAME)
 
-      console.log('removing existing records for %s', presentation)
+      console.log(
+        '%s: removing existing records for %s',
+        INDEX_NAME,
+        presentation,
+      )
       await index.deleteBy({
         filters: presentation,
       })
 
-      console.log('adding %d records', records.length)
+      console.log('%s: adding %d records', INDEX_NAME, records.length)
       // each record should have a unique id set
       await index.saveObjects(records, {
         autoGenerateObjectIDIfNotExist: false,

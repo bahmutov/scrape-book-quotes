@@ -80,25 +80,30 @@ export const scrapeDeck = (url = '/') => {
     console.log({ pathname, slug })
   })
 
+  const maxSlides = 300
+  const slideDelay = 500
+
   const goVertical = () => {
     return recurse(
       () =>
         scrapeOneSlide()
           .then((r) => {
-            cy.log(r[0].url)
+            const url = r[0].url
+            cy.log(url)
             cy.log(`**${r.length}** record(s)`)
+            cy.task('print', `${url}: ${r.length} record(s)`)
             records.push(...r)
           })
           .then(() => cy.get('.navigate-down', doNotLog)),
       ($button) => !$button.hasClass('enabled'),
       {
         log: false,
-        delay: 1000,
-        timeout: 200000,
-        limit: 200,
+        delay: slideDelay,
+        timeout: maxSlides * 1000,
+        limit: maxSlides,
         post() {
           cy.get('.navigate-down', doNotLog).click(doNotLog)
-          cy.wait(500, doNotLog)
+          cy.wait(slideDelay, doNotLog)
         },
       },
     )
@@ -109,9 +114,9 @@ export const scrapeDeck = (url = '/') => {
     ($button) => !$button.hasClass('enabled'),
     {
       log: false,
-      delay: 1000,
-      timeout: 200000,
-      limit: 200,
+      delay: slideDelay,
+      timeout: maxSlides * 1000,
+      limit: maxSlides,
       post() {
         cy.get('.navigate-right', doNotLog).click(doNotLog)
       },

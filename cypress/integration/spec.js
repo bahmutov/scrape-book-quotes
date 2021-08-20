@@ -25,4 +25,7 @@ it('scrapes', () => {
     // see the task registered in the cypress/plugins/index.js file
     cy.task('uploadRecords', { records, presentation: slug })
   })
+
+  // a small delay to let the video finish
+  cy.wait(1000, { log: false })
 })
