@@ -1,3 +1,7 @@
+/// <reference types="cypress" />
+
+import { recurse } from 'cypress-recurse'
+
 export const scrapeOneSlide = () => {
   return cy.document().then((doc) => {
     const url = doc.location.href
@@ -58,5 +62,55 @@ export const scrapeOneSlide = () => {
     // that can happen if <p> tags are nested inside <li> tags
     // or <p> is inside <blockquote>
     return Cypress._.uniqBy(records, 'content')
+  })
+}
+
+export const scrapeDeck = (url = '/') => {
+  // the presentation safe slug like "bahmutov-book-quotes"
+  let slug
+  const records = []
+
+  cy.visit(url)
+
+  // derive the presentation slug from the pathname
+  cy.location('pathname').then((pathname) => {
+    slug = Cypress._.kebabCase(pathname)
+    console.log({ pathname, slug })
+  })
+
+  const goVertical = () => {
+    return recurse(
+      () =>
+        scrapeOneSlide()
+          .then((r) => records.push(...r))
+          .then(() => cy.get('.navigate-down')),
+      ($button) => !$button.hasClass('enabled'),
+      {
+        log: false,
+        delay: 1000,
+        timeout: 200000,
+        limit: 200,
+        post() {
+          cy.get('.navigate-down').click()
+          cy.wait(500)
+        },
+      },
+    )
+  }
+
+  return recurse(
+    () => goVertical().then(() => cy.get('.navigate-right')),
+    ($button) => !$button.hasClass('enabled'),
+    {
+      log: false,
+      delay: 1000,
+      timeout: 200000,
+      limit: 200,
+      post() {
+        cy.get('.navigate-right').click()
+      },
+    },
+  ).then(() => {
+    return { records, slug }
   })
 }

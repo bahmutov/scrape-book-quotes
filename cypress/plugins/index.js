@@ -26,6 +26,7 @@ module.exports = (on, config) => {
         throw new Error('Missing presentation slug')
       }
 
+      const client = algoliasearch(APPLICATION_ID, ADMIN_API_KEY)
       const index = client.initIndex('quotes')
 
       console.log('removing existing records for %s', presentation)
@@ -35,7 +36,7 @@ module.exports = (on, config) => {
 
       console.log('adding %d records', records.length)
       // each record should have a unique id set
-      await index.saveObjects(algoliaObjects, {
+      await index.saveObjects(records, {
         autoGenerateObjectIDIfNotExist: false,
       })
 
