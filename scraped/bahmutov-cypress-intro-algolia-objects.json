@@ -113,7 +113,7 @@
   },
   {
     "url": "https://slides.com/bahmutov/cypress-intro/#/1/3",
-    "content": "",
+    "content": null,
     "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-4",
     "hierarchy": {
       "lvl0": "Cypress Intro",
@@ -128,105 +128,9 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/0",
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-0-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-0-4",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/1",
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-1-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/1",
     "content": "Open real browser",
     "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-1-4",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/1",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-1-5",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/2",
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-2-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/2",
-    "content": "Open real browser",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-2-4",
     "hierarchy": {
       "lvl0": "Cypress Intro",
       "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
@@ -256,153 +160,9 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/2",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-2-6",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/3",
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-3-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/3",
-    "content": "Open real browser",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-3-4",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/3",
-    "content": "Load actual app",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-3-5",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/3",
     "content": "Interact with app like a real user",
     "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-3-6",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/3",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-3-7",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/4",
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-4-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/4",
-    "content": "Open real browser",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-4-4",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/4",
-    "content": "Load actual app",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-4-5",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": "Web application",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/3/4",
-    "content": "Interact with app like a real user",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-3-4-6",
     "hierarchy": {
       "lvl0": "Cypress Intro",
       "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
@@ -464,54 +224,6 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/4",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-4-5",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/4/0",
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-4-0-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/1/4/0",
-    "content": "Really important to users",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-1-4-0-4",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/cypress-intro/#/1/4/0",
     "content": "Really important to developers",
     "objectID": "https-slides-com-bahmutov-cypress-intro-1-4-0-5",
@@ -523,38 +235,6 @@
       "lvl4": null
     },
     "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/2",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-2-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/2/0/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-2-0-0-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
     "_tags": [
       "bahmutov-cypress-intro"
     ]
@@ -608,57 +288,9 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/2/1",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-2-1-2",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/cypress-intro/#/2/1/0",
     "content": "Mocha BDD syntax",
     "objectID": "https-slides-com-bahmutov-cypress-intro-2-1-0-2",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/2/1/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-2-1-0-3",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/2/1/1",
-    "content": "Mocha BDD syntax",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-2-1-1-2",
     "hierarchy": {
       "lvl0": "Cypress Intro",
       "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
@@ -769,56 +401,8 @@
   },
   {
     "url": "https://slides.com/bahmutov/cypress-intro/#/4",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-0",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4",
     "content": "Cypress tests run in the same browser",
     "objectID": "https-slides-com-bahmutov-cypress-intro-4-4",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/0/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-0-0-0",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/0/0",
-    "content": "Cypress tests run in the same browser",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-0-0-4",
     "hierarchy": {
       "lvl0": "Cypress Intro",
       "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
@@ -880,70 +464,6 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/0/1",
-    "content": "Cypress tests run in the same browser",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-0-1-4",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1",
-    "content": "storage",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1",
-    "content": "location",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-2",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1",
-    "content": "cookies",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-3",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/cypress-intro/#/4/1",
     "content": "Cypress acts as a proxy for your app",
     "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-4",
@@ -960,201 +480,9 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1/0",
-    "content": "storage",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-0-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1/0",
-    "content": "location",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-0-2",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1/0",
-    "content": "cookies",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-0-3",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1/0",
-    "content": "Cypress acts as a proxy for your app",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-0-4",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1/1",
-    "content": "storage",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-1-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1/1",
-    "content": "location",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-1-2",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1/1",
-    "content": "cookies",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-1-3",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/4/1/1",
-    "content": "Cypress acts as a proxy for your app",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-4-1-1-4",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/cypress-intro/#/5",
     "content": "Tutorials",
     "objectID": "https-slides-com-bahmutov-cypress-intro-5-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/5",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-5-2",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/5/0/0",
-    "content": "Tutorials",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-5-0-0-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/5/0/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-5-0-0-3",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/5/0/1",
-    "content": "Tutorials",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-5-0-1-1",
     "hierarchy": {
       "lvl0": "Cypress Intro",
       "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
@@ -1393,22 +721,6 @@
   },
   {
     "url": "https://slides.com/bahmutov/cypress-intro/#/8/5",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-8-5-0",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/8/5",
     "content": "Cypress v3.1.0",
     "objectID": "https-slides-com-bahmutov-cypress-intro-8-5-1",
     "hierarchy": {
@@ -1440,40 +752,8 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/8/5/0",
-    "content": "Cypress v3.1.0",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-8-5-0-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/8/5/0",
-    "content": "Spin N CI machines and",
-    "objectID": "https-slides-com-bahmutov-cypress-intro-8-5-0-2",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/cypress-intro/#/8/8",
-    "content": "",
+    "content": null,
     "objectID": "https-slides-com-bahmutov-cypress-intro-8-8-0",
     "hierarchy": {
       "lvl0": "Cypress Intro",
@@ -1505,7 +785,7 @@
   },
   {
     "url": "https://slides.com/bahmutov/cypress-intro/#/9",
-    "content": "",
+    "content": null,
     "objectID": "https-slides-com-bahmutov-cypress-intro-9-0",
     "hierarchy": {
       "lvl0": "Cypress Intro",
@@ -1643,22 +923,6 @@
       "lvl4": null
     },
     "type": "content",
-    "_tags": [
-      "bahmutov-cypress-intro"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/cypress-intro/#/11/1",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-cypress-intro-11-1",
-    "hierarchy": {
-      "lvl0": "Cypress Intro",
-      "lvl1": "A quick introduction to Cypress.io end-to-end test runner. - install - basic GUI tests - headless run - network control and fixtures - mocking JS methods",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
     "_tags": [
       "bahmutov-cypress-intro"
     ]
