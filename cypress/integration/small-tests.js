@@ -2,7 +2,18 @@
 // @ts-check
 
 import { scrapeToAlgoliaRecord } from '../../utils'
-import { scrapeOneSlide } from './utils'
+import { scrapeOneSlide, filterRecords } from './utils'
+import cypressIntroRecords from '../../scraped/bahmutov-cypress-intro-records.json'
+
+it('filters records', () => {
+  const filtered = filterRecords(cypressIntroRecords.slice(0, 10))
+  console.log(filtered)
+  expect(filtered.length).to.equal(3)
+  // many records were skipped
+  expect(filtered[0], 'first').deep.equal(cypressIntroRecords[0])
+  expect(filtered[1], 'second').deep.equal(cypressIntroRecords[5])
+  expect(filtered[2], 'third').deep.equal(cypressIntroRecords[9])
+})
 
 it('scrapes the first slide', () => {
   cy.visit('/')

@@ -121,7 +121,53 @@ export const scrapeDeck = (url = '/') => {
         cy.get('.navigate-right', doNotLog).click(doNotLog)
       },
     },
-  ).then(() => {
-    return { records, slug }
+  )
+    .then(() => {
+      cy.log(`**${records.length}** record(s)`)
+    })
+    .then(() => {
+      console.log('records')
+      console.log(records)
+      return filterRecords(records)
+    })
+    .then((filteredRecords) => {
+      cy.log(`**${filteredRecords.length}** filtered record(s)`)
+      cy.wrap({ records: filteredRecords, slug })
+    })
+}
+
+export const filterRecords = (records) => {
+  // takes the scraped records and filters out
+  // records that are not relevant to the presentation
+  // like individual URLs and my twitter handle
+  const banWords = [
+    '@bahmutov',
+    'gleb.dev',
+    'github.com/bahmutov',
+    'glebbahmutov.com/blog/',
+    '(these slides)',
+    'these slides',
+  ]
+
+  const urlRegex = /^(http|https):\/\/[^ "]+$/
+
+  return records.filter((record) => {
+    // only filter out records that have content
+    if (!record.content) {
+      return true
+    }
+
+    if (record.content.length < 6) {
+      return false
+    }
+    if (banWords.includes(record.content)) {
+      return false
+    }
+
+    if (urlRegex.test(record.content)) {
+      return false
+    }
+
+    return true
   })
 }
