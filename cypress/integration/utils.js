@@ -49,9 +49,14 @@ export const scrapeOneSlide = () => {
     }
 
     const records = textEls.map((el, k) => {
+      let content = el.innerText.trim()
+      if (content === '') {
+        content = null
+      }
+
       const r = {
         ...record,
-        content: el.innerText.trim(),
+        content,
         // give each record extracted from the slide
         // its own id
         objectID: `${record.objectID}-${k}`,
@@ -128,12 +133,22 @@ export const scrapeDeck = (url = '/') => {
     .then(() => {
       console.log('records')
       console.log(records)
-      return filterRecords(records)
+      return removeDuplicates(filterRecords(records))
     })
     .then((filteredRecords) => {
       cy.log(`**${filteredRecords.length}** filtered record(s)`)
       cy.wrap({ records: filteredRecords, slug })
     })
+}
+
+export const removeDuplicates = (records) => {
+  // often when slides have animations, individual blocks
+  // come in one by one. This leads to the text elements
+  // on the slide being duplicated.
+  // thus we check all records for duplicate content
+  return Cypress._.uniqBy(records, (r) =>
+    [r.content, r.lvl0, r.lvl1, r.lvl2, r.lvl3, r.lvl4].join('-'),
+  )
 }
 
 export const filterRecords = (records) => {

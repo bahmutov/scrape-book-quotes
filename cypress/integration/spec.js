@@ -23,7 +23,7 @@ it('scrapes', () => {
 
     // let's upload the records to Algolia
     // see the task registered in the cypress/plugins/index.js file
-    cy.task('uploadRecords', { records, presentation: slug })
+    cy.task('uploadRecords', { records: algoliaObjects, presentation: slug })
   })
 
   // a small delay to let the video finish

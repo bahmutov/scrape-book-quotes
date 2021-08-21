@@ -1,0 +1,962 @@
+[
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/0/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "our planet is in imminent danger",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "+3 degrees Celsius will be the end.",
+    "objectID": "https-slides-com-bahmutov-automated-testing-0-1-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/0/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "we have to act today",
+    "lvl3": null,
+    "lvl4": null,
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing-0-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/0/3",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "if I can help I will",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "350.org",
+    "objectID": "https-slides-com-bahmutov-automated-testing-0-3-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/0/3",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "if I can help I will",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "www.sunrisemovement.org",
+    "objectID": "https-slides-com-bahmutov-automated-testing-0-3-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/0/3",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "if I can help I will",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "rebellion.global",
+    "objectID": "https-slides-com-bahmutov-automated-testing-0-3-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": "Dr Gleb Bahmutov PhD",
+    "lvl4": null,
+    "content": "C / C++ / C# / Java / CoffeeScript / JavaScript / Node / Angular / Vue / Cycle.js / functional",
+    "objectID": "https-slides-com-bahmutov-automated-testing-1-4"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/1/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "30 people. Atlanta, Philly, Boston, NYC, the world",
+    "objectID": "https-slides-com-bahmutov-automated-testing-1-1-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/1/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Fast, easy and reliable testing for anything that runs in a browser",
+    "objectID": "https-slides-com-bahmutov-automated-testing-1-1-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Quality software behaves the way users expect it to behave",
+    "objectID": "https-slides-com-bahmutov-automated-testing-2-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/2/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Testing Pyramid △",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-automated-testing-2-2-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/2/3",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Smallest pieces",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-automated-testing-2-3-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/2/5",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Component",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-automated-testing-2-5-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/2/8",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Website / API",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-automated-testing-2-8-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/2/10",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-automated-testing-2-10-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/2/10",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Really important to users",
+    "objectID": "https-slides-com-bahmutov-automated-testing-2-10-4"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/2/10/0",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Really important to developers",
+    "objectID": "https-slides-com-bahmutov-automated-testing-2-10-0-5"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/3",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Web application",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-automated-testing-3-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/3",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Web application",
+    "lvl3": null,
+    "lvl4": null,
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing-3-4"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/3/0/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Web application",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Open real browser",
+    "objectID": "https-slides-com-bahmutov-automated-testing-3-0-1-4"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/3/0/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Web application",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Load actual app",
+    "objectID": "https-slides-com-bahmutov-automated-testing-3-0-2-5"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/3/0/3",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Web application",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Interact with app like a real user",
+    "objectID": "https-slides-com-bahmutov-automated-testing-3-0-3-6"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/3/0/4",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Web application",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "See if it works",
+    "objectID": "https-slides-com-bahmutov-automated-testing-3-0-4-7"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/4/0/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Win / Mac / Linux",
+    "objectID": "https-slides-com-bahmutov-automated-testing-4-0-1-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/4/0/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "MIT License",
+    "objectID": "https-slides-com-bahmutov-automated-testing-4-0-1-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/4/0/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "OSS https://github.com/cypress-io/cypress",
+    "objectID": "https-slides-com-bahmutov-automated-testing-4-0-1-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/4/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress demo",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Typical test",
+    "objectID": "https-slides-com-bahmutov-automated-testing-4-1-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/4/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress demo",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Failing test",
+    "objectID": "https-slides-com-bahmutov-automated-testing-4-1-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/4/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress demo",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Recording tests",
+    "objectID": "https-slides-com-bahmutov-automated-testing-4-1-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/4/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress demo",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "CI setup",
+    "objectID": "https-slides-com-bahmutov-automated-testing-4-1-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/4/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress demo",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Cypress dashboard",
+    "objectID": "https-slides-com-bahmutov-automated-testing-4-1-4"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/4/2/0",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Mocha BDD syntax",
+    "objectID": "https-slides-com-bahmutov-automated-testing-4-2-0-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/4/2/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Chai assertions",
+    "objectID": "https-slides-com-bahmutov-automated-testing-4-2-1-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/5",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Cypress tests run in the same browser",
+    "objectID": "https-slides-com-bahmutov-automated-testing-5-4"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/5/0/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "storage",
+    "objectID": "https-slides-com-bahmutov-automated-testing-5-0-1-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/5/0/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "location",
+    "objectID": "https-slides-com-bahmutov-automated-testing-5-0-1-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/5/0/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "cookies",
+    "objectID": "https-slides-com-bahmutov-automated-testing-5-0-1-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/5/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Cypress acts as a proxy for your app",
+    "objectID": "https-slides-com-bahmutov-automated-testing-5-1-4"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/6",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress Philosophy",
+    "lvl3": "Test your app",
+    "lvl4": null,
+    "content": "Test your app",
+    "objectID": "https-slides-com-bahmutov-automated-testing-6-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/6",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress Philosophy",
+    "lvl3": "Test your app",
+    "lvl4": null,
+    "content": "Stub 3rd party services",
+    "objectID": "https-slides-com-bahmutov-automated-testing-6-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/6",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress Philosophy",
+    "lvl3": "Test your app",
+    "lvl4": null,
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing-6-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/6/0/0",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress Philosophy",
+    "lvl3": "Test your app",
+    "lvl4": null,
+    "content": "Refactor, while tests are passing",
+    "objectID": "https-slides-com-bahmutov-automated-testing-6-0-0-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/6/0/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress Philosophy",
+    "lvl3": "Test your app",
+    "lvl4": null,
+    "content": "Strangle old code 😃",
+    "objectID": "https-slides-com-bahmutov-automated-testing-6-0-1-4"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/7",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Tutorials",
+    "objectID": "https-slides-com-bahmutov-automated-testing-7-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/7/0/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Examples",
+    "objectID": "https-slides-com-bahmutov-automated-testing-7-0-1-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/8",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress CLI has 2 main commands",
+    "lvl3": "\"cypress open\" - GUI interactive mode",
+    "lvl4": null,
+    "content": "\"cypress open\" - GUI interactive mode",
+    "objectID": "https-slides-com-bahmutov-automated-testing-8-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/8",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress CLI has 2 main commands",
+    "lvl3": "\"cypress open\" - GUI interactive mode",
+    "lvl4": null,
+    "content": "\"cypress run\" - headless mode",
+    "objectID": "https-slides-com-bahmutov-automated-testing-8-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/8",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Cypress CLI has 2 main commands",
+    "lvl3": "\"cypress open\" - GUI interactive mode",
+    "lvl4": null,
+    "content": "full video of the run, screenshots of every  failure",
+    "objectID": "https-slides-com-bahmutov-automated-testing-8-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/8/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Running E2E on CI",
+    "lvl3": "Every CI should be good",
+    "lvl4": null,
+    "content": "Every CI should be good",
+    "objectID": "https-slides-com-bahmutov-automated-testing-8-1-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/8/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Running E2E on CI",
+    "lvl3": "Every CI should be good",
+    "lvl4": null,
+    "content": "Or use a Docker image we provide",
+    "objectID": "https-slides-com-bahmutov-automated-testing-8-1-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/8/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Making it easy for users is not easy",
+    "objectID": "https-slides-com-bahmutov-automated-testing-8-2-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Paid Features 💵",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "recording test artifacts",
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Paid Features 💵",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "test parallelization",
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Paid Features 💵",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "GitHub integration",
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-4"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Paid Features 💵",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "(WIP) historical insights",
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-5"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Paid Features 💵: artifacts",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "test output, video, screenshots",
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-2-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9/3",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "I have 100s of tests ...",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "I have 100s of tests ...",
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-3-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9/5",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Cypress v3.1.0",
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-5-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9/5",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Spin N CI machines and",
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-5-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9/8",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": "cypress-dashboard parallelization",
+    "lvl4": null,
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-8-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9/8/0",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": "cypress-dashboard parallelization",
+    "lvl4": null,
+    "content": "10 machines = 10x speed up",
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-8-0-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/9/9",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Historical insights",
+    "lvl3": null,
+    "lvl4": null,
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing-9-9"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/10",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Bridging the Gap",
+    "lvl3": null,
+    "lvl4": null,
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing-10"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/10/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Coming in PR #5923",
+    "objectID": "https-slides-com-bahmutov-automated-testing-10-2-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/10/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Anything you want to test in React app: https://github.com/bahmutov/cypress-react-unit-test/pull/108",
+    "objectID": "https-slides-com-bahmutov-automated-testing-10-2-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": "What features do your tests cover?",
+    "lvl4": null,
+    "content": "first test",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-1-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": "What features do your tests cover?",
+    "lvl4": null,
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-1-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/1/0",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": "What features do your tests cover?",
+    "lvl4": null,
+    "content": "two more tests",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-1-0-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/1/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": "What features do your tests cover?",
+    "lvl4": null,
+    "content": "hundreds of tests!!!",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-1-1-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": "E2E tests are extremely effective at covering a lot of app code",
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/3",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Coverage as a guide to writing E2E tests",
+    "lvl3": null,
+    "lvl4": null,
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/4/0",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Coverage as a guide to writing E2E tests",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "We have tested \"add todo\"",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-4-0-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/4/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Coverage as a guide to writing E2E tests",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Need tests",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-4-1-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/5",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Ughh, missed it",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-5-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/6",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Can we always write an E2E test?",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "What is this code doing?",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-6-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/6",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Can we always write an E2E test?",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Can I write an E2E test to hit this code?",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-6-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/7",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Sometimes you cannot",
+    "lvl3": "",
+    "lvl4": null,
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-7-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/7/0",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Sometimes you cannot",
+    "lvl3": "Write a Unit Test!",
+    "lvl4": null,
+    "content": "This code should be unreachable from the user interface",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-7-0-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/9",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "@cypress/code-coverage plugin",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-9-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/9",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "We got this line from the unit test",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-9-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/10",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "Nice job, @cypress/code-coverage plugin",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-10-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/11/10",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": null,
+    "lvl3": null,
+    "lvl4": null,
+    "content": "combines e2e and unit test coverage automatically",
+    "objectID": "https-slides-com-bahmutov-automated-testing-11-10-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/12/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Visual review workflow",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "changes crust color SVG",
+    "objectID": "https-slides-com-bahmutov-automated-testing-12-1-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/12/1",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Visual review workflow",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "1. Make pull request with visual changes",
+    "objectID": "https-slides-com-bahmutov-automated-testing-12-1-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/12/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Visual review workflow",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "catch visual changes in the pull request",
+    "objectID": "https-slides-com-bahmutov-automated-testing-12-2-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/12/2",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Visual review workflow",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "2. Review & approve visual changes",
+    "objectID": "https-slides-com-bahmutov-automated-testing-12-2-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/14",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Why developers love Cypress",
+    "lvl3": "Fast, flake-free",
+    "lvl4": null,
+    "content": "Fast, flake-free",
+    "objectID": "https-slides-com-bahmutov-automated-testing-14-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/14",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Why developers love Cypress",
+    "lvl3": "Fast, flake-free",
+    "lvl4": null,
+    "content": "GUI, time travel",
+    "objectID": "https-slides-com-bahmutov-automated-testing-14-1"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/14",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Why developers love Cypress",
+    "lvl3": "Fast, flake-free",
+    "lvl4": null,
+    "content": "Test recording",
+    "objectID": "https-slides-com-bahmutov-automated-testing-14-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/14",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Why developers love Cypress",
+    "lvl3": "Fast, flake-free",
+    "lvl4": null,
+    "content": "Documentation",
+    "objectID": "https-slides-com-bahmutov-automated-testing-14-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/15",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Coming soon",
+    "lvl3": "Retries / flake factor",
+    "lvl4": null,
+    "content": "Retries / flake factor",
+    "objectID": "https-slides-com-bahmutov-automated-testing-15-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/15",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Coming soon",
+    "lvl3": "Retries / flake factor",
+    "lvl4": null,
+    "content": "Full network stubbing",
+    "objectID": "https-slides-com-bahmutov-automated-testing-15-3"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/15",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Coming soon",
+    "lvl3": "Retries / flake factor",
+    "lvl4": null,
+    "content": "so many more ideas ...",
+    "objectID": "https-slides-com-bahmutov-automated-testing-15-4"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/16",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Thank you 👏",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "@cypress_io",
+    "objectID": "https-slides-com-bahmutov-automated-testing-16-0"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/16",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Thank you 👏",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "slides.com/bahmutov/automated-testing",
+    "objectID": "https-slides-com-bahmutov-automated-testing-16-2"
+  },
+  {
+    "url": "https://slides.com/bahmutov/automated-testing/#/16",
+    "lvl0": "Automated Testing with Cypress.io",
+    "lvl1": "This talk shows how quick and simple it can be to write end-to-end tests for web applications – if your testing tools are not fighting you all the time. I will go over writing E2E tests using Cypress.io (https://www.cypress.io/), controlling the network during tests, using visual testing and setting up continuous integration to perform E2E tests on each commit.",
+    "lvl2": "Thank you 👏",
+    "lvl3": null,
+    "lvl4": null,
+    "content": "github.com/cypress-io/cypress ⭐️",
+    "objectID": "https-slides-com-bahmutov-automated-testing-16-3"
+  }
+]

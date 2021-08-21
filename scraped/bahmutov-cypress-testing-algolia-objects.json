@@ -1,0 +1,2066 @@
+[
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/",
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-cypress-testing",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "Testing approach",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "Cypress demo",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "Cypress documentation",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "Cypress Dashboard features\ntest artifacts\nparallelization\nGitHub integration\ntest insights\ntest flake detection",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "test artifacts",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "parallelization",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-5",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "GitHub integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-6",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "test insights",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-7",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "test flake detection",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-8",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "Component testing",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-9",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/1",
+    "content": "Visual testing",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-1-10",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Contents",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/2",
+    "content": "C / C++ / C# / Java / CoffeeScript / JavaScript / Node / Angular / Vue / Cycle.js / functional",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-2-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "Dr Gleb Bahmutov PhD",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/2/1",
+    "content": "40 people. Atlanta, Philly, Boston, NYC, the world",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-2-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/2/1",
+    "content": "Fast, easy and reliable testing for anything that runs in a browser",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-2-1-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3",
+    "content": "Quality software behaves the way users expect it to behave",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3/2",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-2-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Testing Pyramid △",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3/3",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-3-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Smallest pieces",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3/5",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-5-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Component",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3/8",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-8-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Website / API",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3/10",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-10-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3/10",
+    "content": "Really important to users",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-10-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3/10",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-10-5",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3/10/0",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-10-0-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3/10/0",
+    "content": "Really important to users",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-10-0-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/3/10/0",
+    "content": "Really important to developers",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-3-10-0-5",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl2",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/0",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-0-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/0",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-0-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl2",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/1",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/1",
+    "content": "Open real browser",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-1-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/1",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-1-5",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl2",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/2",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-2-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/2",
+    "content": "Open real browser",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-2-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/2",
+    "content": "Load actual app",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-2-5",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/2",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-2-6",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl2",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/3",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-3-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/3",
+    "content": "Open real browser",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-3-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/3",
+    "content": "Load actual app",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-3-5",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/3",
+    "content": "Interact with app like a real user",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-3-6",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/3",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-3-7",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl2",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/4",
+    "content": "integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-4-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/4",
+    "content": "Open real browser",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-4-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/4",
+    "content": "Load actual app",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-4-5",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/4",
+    "content": "Interact with app like a real user",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-4-6",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/4/0/4",
+    "content": "See if it works",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-4-0-4-7",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Web application",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/0/0",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-0-0-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/0/1",
+    "content": "Win / Mac / Linux",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-0-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/0/1",
+    "content": "MIT License",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-0-1-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/0/1",
+    "content": "OSS https://github.com/cypress-io/cypress",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-0-1-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/1",
+    "content": "Typical test",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-1-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Cypress demo",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/1",
+    "content": "Failing test",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Cypress demo",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/1",
+    "content": "Recording tests",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-1-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Cypress demo",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/1",
+    "content": "CI setup",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-1-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Cypress demo",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/1",
+    "content": "Cypress dashboard",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-1-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Cypress demo",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/2",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-2-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/2/0",
+    "content": "Mocha BDD syntax",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-2-0-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/2/0",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-2-0-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/2/1",
+    "content": "Mocha BDD syntax",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-2-1-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/5/2/1",
+    "content": "Chai assertions",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-5-2-1-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6",
+    "content": "Cypress tests run in the same browser",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/0/0",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-0-0-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/0/0",
+    "content": "Cypress tests run in the same browser",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-0-0-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/0/1",
+    "content": "storage",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-0-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/0/1",
+    "content": "location",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-0-1-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/0/1",
+    "content": "cookies",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-0-1-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/0/1",
+    "content": "Cypress tests run in the same browser",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-0-1-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1",
+    "content": "storage",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1",
+    "content": "location",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1",
+    "content": "cookies",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1",
+    "content": "Cypress acts as a proxy for your app",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1/0",
+    "content": "storage",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-0-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1/0",
+    "content": "location",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-0-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1/0",
+    "content": "cookies",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-0-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1/0",
+    "content": "Cypress acts as a proxy for your app",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-0-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1/1",
+    "content": "storage",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1/1",
+    "content": "location",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-1-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1/1",
+    "content": "cookies",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-1-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/6/1/1",
+    "content": "Cypress acts as a proxy for your app",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-6-1-1-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/7",
+    "content": "Test your app",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-7-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Cypress Philosophy",
+      "lvl3": "Test your app",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/7",
+    "content": "Stub 3rd party services",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-7-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Cypress Philosophy",
+      "lvl3": "Test your app",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/9",
+    "content": "Tutorials",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-9-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/9",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-9-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/9/0/0",
+    "content": "Tutorials",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-9-0-0-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/9/0/0",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-9-0-0-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/9/0/1",
+    "content": "Tutorials",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-9-0-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/9/0/1",
+    "content": "Examples",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-9-0-1-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/10",
+    "content": "\"cypress open\" - GUI interactive mode",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-10-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Cypress CLI has 2 main commands",
+      "lvl3": "\"cypress open\" - GUI interactive mode",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/10",
+    "content": "\"cypress run\" - headless mode",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-10-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Cypress CLI has 2 main commands",
+      "lvl3": "\"cypress open\" - GUI interactive mode",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/10",
+    "content": "full video of the run, screenshots of every  failure",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-10-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Cypress CLI has 2 main commands",
+      "lvl3": "\"cypress open\" - GUI interactive mode",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/10/1",
+    "content": "Every CI should be good",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-10-1-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Running E2E on CI",
+      "lvl3": "Every CI should be good",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/10/1",
+    "content": "Or use a Docker image we provide",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-10-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Running E2E on CI",
+      "lvl3": "Every CI should be good",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/10/2",
+    "content": "Making it easy for users is not easy",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-10-2-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11",
+    "content": "recording test artifacts",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Paid Features 💵",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11",
+    "content": "test parallelization",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Paid Features 💵",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11",
+    "content": "GitHub integration",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Paid Features 💵",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11",
+    "content": "test analytics",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-5",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Paid Features 💵",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11/2",
+    "content": "test output, video, screenshots",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-2-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Paid Features 💵: artifacts",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11/3",
+    "content": "I have 100s of tests ...",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-3-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "I have 100s of tests ...",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11/5",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-5-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11/5",
+    "content": "Cypress v3.1.0",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-5-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11/5",
+    "content": "Spin N CI machines and",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-5-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11/5/0",
+    "content": "Cypress v3.1.0",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-5-0-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11/5/0",
+    "content": "Spin N CI machines and",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-5-0-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11/8",
+    "content": "",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-8-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "cypress-dashboard parallelization",
+      "lvl4": null
+    },
+    "type": "lvl3",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/11/8/0",
+    "content": "10 machines = 10x speed up",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-11-8-0-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": "cypress-dashboard parallelization",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/12/2",
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-cypress-testing-12-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Test Analytics and History",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl2",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/12/2/0",
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-cypress-testing-12-2-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Test Analytics and History",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl2",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/14/1",
+    "content": "changes crust color SVG",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-14-1-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Visual review workflow",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/14/1",
+    "content": "1. Make pull request with visual changes",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-14-1-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Visual review workflow",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/14/2",
+    "content": "catch visual changes in the pull request",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-14-2-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Visual review workflow",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/14/2",
+    "content": "2. Review & approve visual changes",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-14-2-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Visual review workflow",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/14/3",
+    "content": "2. Review & approve visual changes",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-14-3-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Visual review workflow",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/16",
+    "content": "Fast, flake-free",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-16-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Why developers love Cypress",
+      "lvl3": "Fast, flake-free",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/16",
+    "content": "GUI, time travel",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-16-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Why developers love Cypress",
+      "lvl3": "Fast, flake-free",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/16",
+    "content": "Test recording",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-16-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Why developers love Cypress",
+      "lvl3": "Fast, flake-free",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/16",
+    "content": "Documentation",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-16-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Why developers love Cypress",
+      "lvl3": "Fast, flake-free",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/16/1",
+    "content": null,
+    "objectID": "https-slides-com-bahmutov-cypress-testing-16-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "lvl1",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/17",
+    "content": "+ visual testing",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-17-1",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/17",
+    "content": "component",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-17-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/17",
+    "content": "My view of testing efficiency",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-17-6",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": null,
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/18",
+    "content": "Component testing",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-18-2",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Coming soon",
+      "lvl3": "Component testing",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/18",
+    "content": "Full network stubbing finished",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-18-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Coming soon",
+      "lvl3": "Component testing",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/18",
+    "content": "so many more ideas ...",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-18-4",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Coming soon",
+      "lvl3": "Component testing",
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/19",
+    "content": "@cypress_io",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-19-0",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Thank you 👏",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  },
+  {
+    "url": "https://slides.com/bahmutov/cypress-testing/#/19",
+    "content": "github.com/cypress-io/cypress ⭐️",
+    "objectID": "https-slides-com-bahmutov-cypress-testing-19-3",
+    "hierarchy": {
+      "lvl0": "End-to-end Testing With Cypress",
+      "lvl1": "Unit testing is hard and time-consuming; and worse - the users and the customers do not care! They only want the features working in the production system, everything else is development overhead. If this is the case, how do we improve web application quality? How do we catch the bugs early? How can we test the deployed system effectively? This presentation tries to answer many of these questions in a web framework agnostic way using open source test runner Cypress.io.",
+      "lvl2": "Thank you 👏",
+      "lvl3": null,
+      "lvl4": null
+    },
+    "type": "content",
+    "_tags": [
+      "bahmutov-cypress-testing"
+    ]
+  }
+]
