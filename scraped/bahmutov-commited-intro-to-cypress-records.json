@@ -230,36 +230,6 @@
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-3-10-4"
   },
   {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/3/10",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-3-10-5"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/3/10/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-3-10-0-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/3/10/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Really important to users",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-3-10-0-4"
-  },
-  {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/3/10/0",
     "lvl0": "CommitEd: Introduction to Cypress",
     "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
@@ -286,38 +256,8 @@
     "lvl2": "Web application",
     "lvl3": null,
     "lvl4": null,
-    "content": "",
+    "content": null,
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-4"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-0-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-0-4"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-1-1"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/1",
@@ -330,36 +270,6 @@
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-1-4"
   },
   {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-1-5"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/2",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-2-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/2",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Open real browser",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-2-4"
-  },
-  {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/2",
     "lvl0": "CommitEd: Introduction to Cypress",
     "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
@@ -368,46 +278,6 @@
     "lvl4": null,
     "content": "Load actual app",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-2-5"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/2",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-2-6"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/3",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-3-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/3",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Open real browser",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-3-4"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/3",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Load actual app",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-3-5"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/3",
@@ -420,56 +290,6 @@
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-3-6"
   },
   {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/3",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-3-7"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/4",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "integration",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-4-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/4",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Open real browser",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-4-4"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/4",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Load actual app",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-4-5"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/4",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Web application",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Interact with app like a real user",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-4-6"
-  },
-  {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/4/0/4",
     "lvl0": "CommitEd: Introduction to Cypress",
     "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
@@ -478,26 +298,6 @@
     "lvl4": null,
     "content": "See if it works",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-4-0-4-7"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/5",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-5-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/5/0/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-5-0-0-1"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/5/0/1",
@@ -580,16 +380,6 @@
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-5-1-4"
   },
   {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/5/2",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-5-2-2"
-  },
-  {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/5/2/0",
     "lvl0": "CommitEd: Introduction to Cypress",
     "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
@@ -598,26 +388,6 @@
     "lvl4": null,
     "content": "Mocha BDD syntax",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-5-2-0-2"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/5/2/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-5-2-0-3"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/5/2/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Mocha BDD syntax",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-5-2-1-2"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/5/2/1",
@@ -636,38 +406,8 @@
     "lvl2": null,
     "lvl3": null,
     "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-0"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
     "content": "Cypress tests run in the same browser",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-4"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/0/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-0-0-0"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/0/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Cypress tests run in the same browser",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-0-0-4"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/0/1",
@@ -700,46 +440,6 @@
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-0-1-3"
   },
   {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/0/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Cypress tests run in the same browser",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-0-1-4"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "storage",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "location",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-2"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "cookies",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-3"
-  },
-  {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1",
     "lvl0": "CommitEd: Introduction to Cypress",
     "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
@@ -748,86 +448,6 @@
     "lvl4": null,
     "content": "Cypress acts as a proxy for your app",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-4"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "storage",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-0-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "location",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-0-2"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "cookies",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-0-3"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Cypress acts as a proxy for your app",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-0-4"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "storage",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-1-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "location",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-1-2"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "cookies",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-1-3"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/1/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Cypress acts as a proxy for your app",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-6-1-1-4"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/6/2",
@@ -870,66 +490,6 @@
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-7-1-0"
   },
   {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/7/1/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Cypress Power",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "controls app clock and mocks network",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-7-1-0-0"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/7/1/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Cypress Power",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "controls app clock and mocks network",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-7-1-1-0"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/7/1/2",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Cypress Power",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "controls app clock and mocks network",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-7-1-2-0"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/7/1/3",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Cypress Power",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "controls app clock and mocks network",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-7-1-3-0"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/7/1/4",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Cypress Power",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "controls app clock and mocks network",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-7-1-4-0"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/7/2",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Cypress Power",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "controls app clock and mocks network",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-7-2-0"
-  },
-  {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8",
     "lvl0": "CommitEd: Introduction to Cypress",
     "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
@@ -938,46 +498,6 @@
     "lvl4": null,
     "content": "Tutorials",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-2"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8/0/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Tutorials",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-0-0-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8/0/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-0-0-3"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8/0/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Tutorials",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-0-1-1"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8/0/1",
@@ -998,26 +518,6 @@
     "lvl4": null,
     "content": "Videos",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-1-0"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-1-2"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8/1/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Videos",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-1-0-0"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8/1/0",
@@ -1056,28 +556,8 @@
     "lvl2": "Good Cypress Examples",
     "lvl3": null,
     "lvl4": null,
-    "content": "",
+    "content": null,
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-2-3"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8/2/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Good Cypress Examples",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "search GitHub for topic:cypress-example",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-2-0-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8/2/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Good Cypress Examples",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "add GH username  topic:cypress-example user:bahmutov",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-8-2-0-2"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/8/2/0",
@@ -1170,16 +650,6 @@
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-11-0"
   },
   {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/11/0/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Cypress + CI = ❤️",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "via https://github.com/cypress-io/netlify-plugin-cypress",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-11-0-0-0"
-  },
-  {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/11/1",
     "lvl0": "CommitEd: Introduction to Cypress",
     "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
@@ -1190,16 +660,6 @@
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-11-1-0"
   },
   {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/11/1/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "CircleCI",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "via https://github.com/cypress-io/circleci-orb",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-11-1-0-0"
-  },
-  {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/11/2",
     "lvl0": "CommitEd: Introduction to Cypress",
     "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
@@ -1208,16 +668,6 @@
     "lvl4": null,
     "content": "via https://github.com/cypress-io/github-action",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-11-2-0"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/11/2/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "GitHub Actions",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "via https://github.com/cypress-io/github-action",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-11-2-0-0"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/12",
@@ -1296,16 +746,6 @@
     "lvl2": null,
     "lvl3": null,
     "lvl4": null,
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-13-5-0"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/13/5",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
     "content": "Cypress v3.1.0",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-13-5-1"
   },
@@ -1320,33 +760,13 @@
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-13-5-2"
   },
   {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/13/5/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Cypress v3.1.0",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-13-5-0-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/13/5/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": "Spin N CI machines and",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-13-5-0-2"
-  },
-  {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/13/8",
     "lvl0": "CommitEd: Introduction to Cypress",
     "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
     "lvl2": null,
     "lvl3": "cypress-dashboard parallelization",
     "lvl4": null,
-    "content": "",
+    "content": null,
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-13-8-0"
   },
   {
@@ -1368,16 +788,6 @@
     "lvl4": null,
     "content": null,
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-14-2"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/14/2/0",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Test Analytics and History",
-    "lvl3": null,
-    "lvl4": null,
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-14-2-0"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/16/1",
@@ -1418,16 +828,6 @@
     "lvl4": null,
     "content": "2. Review & approve visual changes",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-16-2-1"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/16/3",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": "Visual review workflow",
-    "lvl3": null,
-    "lvl4": null,
-    "content": "2. Review & approve visual changes",
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-16-3-0"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/16/4",
@@ -1478,16 +878,6 @@
     "lvl4": null,
     "content": "Documentation",
     "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-18-3"
-  },
-  {
-    "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/18/1",
-    "lvl0": "CommitEd: Introduction to Cypress",
-    "lvl1": "Introduction to Cypress. This 1-hour presentation gives an introduction to the Cypress Test Runner, its architecture, and the problems it is solving. We will cover end-to-end testing, accessing the application’s internal state, component testing, API testing, visual testing, and collecting code coverage from tests. We will also look at network stubbing and the trade-offs between the full stubbing and spying on the network traffic. The presentation will be followed by questions and answers. Video at https://commited.tech/events/session-introduction-to-cypress/",
-    "lvl2": null,
-    "lvl3": null,
-    "lvl4": null,
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-commited-intro-to-cypress-18-1"
   },
   {
     "url": "https://slides.com/bahmutov/commited-intro-to-cypress/#/19",

@@ -161,7 +161,7 @@
   },
   {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/1",
-    "content": "",
+    "content": null,
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-1-5",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
@@ -171,54 +171,6 @@
       "lvl4": null
     },
     "type": "lvl2",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/1/0/0",
-    "content": "Hundreds of OSS projects at gleb.dev",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-1-0-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Dr. Gleb Bahmutov, PhD",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/1/0/0",
-    "content": "Hundreds of blog posts at gleb.dev/blog",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-1-0-0-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Dr. Gleb Bahmutov, PhD",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/1/0/0",
-    "content": "VP of Engineering at Cypress.io",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-1-0-0-2",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Dr. Gleb Bahmutov, PhD",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
     "_tags": [
       "bahmutov-fast-and-effective-end-to-end-tests"
     ]
@@ -235,38 +187,6 @@
       "lvl4": null
     },
     "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/2",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-2-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/2/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-2-0-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
     "_tags": [
       "bahmutov-fast-and-effective-end-to-end-tests"
     ]
@@ -304,38 +224,6 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/3",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-3-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/3/0",
-    "content": "Our goal: remove any obstacle to fast and easy testing",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-3-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/3/0",
     "content": "Obstacle: need to start the app then open Cypress",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-3-0-1",
@@ -352,281 +240,9 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/5",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-5",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/6",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-6",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/7",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-7",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/8",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-8",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/9",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-9",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/10",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-10",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/11",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-11",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/2/12",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-2-12",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/1",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/1/0",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-1-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/1/1",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-1-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/2",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-2",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/2/0",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-2-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/2/1",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-2-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/3",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-3-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/3/0",
     "content": "Save coverage",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-3-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/3/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-3-0-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/3/1",
-    "content": "Save coverage",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-3-1-0",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -672,22 +288,6 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/4/5/0",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-4-5-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "End-to-end tests are VERY effective at covering app's code",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6",
     "content": null,
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6",
@@ -704,121 +304,9 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/1",
-    "content": null,
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/2",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-2-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/2/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-2-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/2/1",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-2-1-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/2/2",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-2-2-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/2/3",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-2-3-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/2/4",
     "content": "End-to-End Tests",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-2-4-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/2/5",
-    "content": "End-to-End Tests",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-2-5-0",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -848,70 +336,6 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/4/0",
-    "content": "test Todo component",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-4-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/4/1",
-    "content": "test Todo component",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-4-1-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/4/2",
-    "content": "test Todo component",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-4-2-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/5",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-5-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/5/0",
     "content": "a single component mounted as a mini web application",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-5-0-0",
@@ -931,38 +355,6 @@
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/6",
     "content": "Component Tests",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-6-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/6",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-6-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/6/0",
-    "content": "Component Tests",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-6-0-0",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -1008,70 +400,6 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/7/0",
-    "content": "Code instrumentation and reporting included",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-7-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/8",
-    "content": "Component Tests",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-8-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/8",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-8-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/8/0",
-    "content": "Component Tests",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-8-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/8/0",
     "content": "Say no to shallow rendering",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-8-0-1",
@@ -1091,54 +419,6 @@
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/9",
     "content": "test App component",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-9-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/9/0",
-    "content": "test App component",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-9-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/9/1",
-    "content": "test App component",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-9-1-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/6/9/2",
-    "content": "test App component",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-6-9-2-0",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -1185,7 +465,7 @@
   },
   {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1",
-    "content": "",
+    "content": null,
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-1",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
@@ -1201,72 +481,8 @@
   },
   {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/0",
-    "content": "git checkout",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/0",
     "content": "npm install",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-0-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-0-2",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/1",
-    "content": "git checkout",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-1-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/1",
-    "content": "npm install",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-1-1",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -1296,153 +512,9 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/1",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-1-3",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/2",
-    "content": "git checkout",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-2-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/2",
-    "content": "npm install",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-2-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/2",
-    "content": "start the app",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-2-2",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/2",
     "content": "cypress run",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-2-3",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/2",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-2-4",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/3",
-    "content": "git checkout",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-3-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/3",
-    "content": "npm install",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-3-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/3",
-    "content": "start the app",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-3-2",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/1/3",
-    "content": "cypress run",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-1-3-3",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -1473,88 +545,8 @@
   },
   {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/2",
-    "content": "git checkout",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-2-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/2",
-    "content": "npm install",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-2-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/2",
     "content": "cache dependencies",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-2-2",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/2",
-    "content": "start the app",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-2-3",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/2",
-    "content": "cypress run",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-2-4",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/2",
-    "content": "stop the app",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-2-5",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -1585,120 +577,8 @@
   },
   {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/3",
-    "content": "git checkout",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-3-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/3",
     "content": "restore cache",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-3-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/3",
-    "content": "npm install",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-3-2",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/3",
-    "content": "cache dependencies",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-3-3",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/3",
-    "content": "start the app",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-3-4",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/3",
-    "content": "cypress run",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-3-5",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/3",
-    "content": "stop the app",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-3-6",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Cypress on Continuous Integration",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/3",
-    "content": "Performance",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-3-7",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -1824,70 +704,6 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/6",
-    "content": "typical CI config file",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-6-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/6",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-6-2",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/6/0",
-    "content": "Parallel config is ... more complicated",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-6-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/6/0",
-    "content": "typical CI config file",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-6-0-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/8/6/0",
     "content": "- install + run jobs",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-8-6-0-2",
@@ -1937,24 +753,8 @@
   },
   {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/9",
-    "content": "",
+    "content": null,
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-9-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "My Top 3 CIs Right NOW",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/9/0/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-9-0-0-0",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -1984,38 +784,6 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/9/0/2",
-    "content": "via https://github.com/cypress-io/netlify-plugin-cypress",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-9-0-2-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "My Top 3 CIs Right NOW",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/9/1",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-9-1-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "My Top 3 CIs Right NOW",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/9/1/0",
     "content": "via https://github.com/cypress-io/circleci-orb",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-9-1-0-0",
@@ -2027,38 +795,6 @@
       "lvl4": null
     },
     "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/9/1/1",
-    "content": "via https://github.com/cypress-io/circleci-orb",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-9-1-1-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "My Top 3 CIs Right NOW",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/9/2",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-9-2-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "My Top 3 CIs Right NOW",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
     "_tags": [
       "bahmutov-fast-and-effective-end-to-end-tests"
     ]
@@ -2080,41 +816,9 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/9/2/1",
-    "content": "via https://github.com/cypress-io/github-action",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-9-2-1-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "My Top 3 CIs Right NOW",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10",
-    "content": "",
+    "content": null,
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Test App After Each Code Transformation",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/0/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-0-0-0",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -2160,38 +864,6 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/1/0",
-    "content": "Test the development code served using Webpack Dev Server",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-1-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/2",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-2-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Test App After Each Code Transformation",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/2/0",
     "content": "Test the app again after building production bundle",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-2-0-0",
@@ -2219,54 +891,6 @@
       "lvl4": null
     },
     "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/3/0",
-    "content": "Test the app again after building production bundle",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-3-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/3/1",
-    "content": "Test the app again after building production bundle",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-3-1-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/4",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-4-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Test App After Each Code Transformation",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl2",
     "_tags": [
       "bahmutov-fast-and-effective-end-to-end-tests"
     ]
@@ -2320,121 +944,9 @@
     ]
   },
   {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/5/0",
-    "content": "GitHub Action that runs on successful deploy to GitHub Pages",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-5-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/5/0",
-    "content": "Test the app again after deploying",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-5-0-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/5/1",
-    "content": "GitHub Action that runs on successful deploy to GitHub Pages",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-5-1-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/5/1",
-    "content": "Test the app again after deploying",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-5-1-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/6",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-6-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/6/0",
     "content": "2 test runs (dev and prod builds)",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-6-0-0",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/6/0",
-    "content": "",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-6-0-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": null,
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "lvl1",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/6/1",
-    "content": "2 test runs (dev and prod builds)",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-6-1-0",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
@@ -2467,22 +979,6 @@
     "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/7",
     "content": "Read https://glebbahmutov.com/blog/triple-tested/",
     "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-7-1",
-    "hierarchy": {
-      "lvl0": "Fast and Effective ... End-to-End Tests?!",
-      "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",
-      "lvl2": "Never Deploy a Broken Site",
-      "lvl3": null,
-      "lvl4": null
-    },
-    "type": "content",
-    "_tags": [
-      "bahmutov-fast-and-effective-end-to-end-tests"
-    ]
-  },
-  {
-    "url": "https://slides.com/bahmutov/fast-and-effective-end-to-end-tests/#/10/7/0",
-    "content": "Read https://glebbahmutov.com/blog/triple-tested/",
-    "objectID": "https-slides-com-bahmutov-fast-and-effective-end-to-end-tests-10-7-0-1",
     "hierarchy": {
       "lvl0": "Fast and Effective ... End-to-End Tests?!",
       "lvl1": "In this talk I will show how testing could be a way to speed up web application development rather than hinder it. I will show end-to-end testing as it should be: fast, providing quick feedback, and able to simulate hard to recreate edge cases. I will also show types of testing that greatly complement E2E testing: visual testing to prevent style regressions, API testing to test edge cases, accessing native browser objects, and component testing.",

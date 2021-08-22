@@ -3,3 +3,6 @@ node_modules/
 records.json
 cypress/screenshots/
 cypress/videos/
+
+# ignore any new scans
+scraped/*.json
