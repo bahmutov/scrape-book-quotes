@@ -1,6 +1,8 @@
 # scrape-book-quotes
 > Scraping Slides.com presentation using Cypress and sending records to Algolia
 
+Read the blog post [Scrape Slides](https://glebbahmutov.com/blog/scrape-slides/)
+
 To scrape the default `baseUrl` deck from [cypress.json](./cypress.json), open Cypress and click on the [spec](./cypress/integration/spec.js) file.
 
 ```shell
