@@ -38,4 +38,9 @@ const scrapeToAlgoliaRecord = (record) => {
   return algoliaRecord
 }
 
-module.exports = { scrapeToAlgoliaRecord }
+function removeDuplicateUsingSet(arr) {
+  const unique_array = Array.from(new Set(arr))
+  return unique_array
+}
+
+module.exports = { scrapeToAlgoliaRecord, removeDuplicateUsingSet }
