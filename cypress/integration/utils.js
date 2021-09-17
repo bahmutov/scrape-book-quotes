@@ -86,7 +86,7 @@ export const scrapeDeck = (url = '/') => {
   })
 
   const maxSlides = 300
-  const slideDelay = 500
+  const slideDelay = 1000
 
   const goVertical = () => {
     return recurse(
